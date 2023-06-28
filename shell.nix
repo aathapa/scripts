@@ -46,8 +46,8 @@ let
   '';
   
   elixir = beam.packages.erlangR25.elixir.override {
-    version = "1.14.4";
-    sha256 = "sha256-mV40pSpLrYKT43b8KXiQsaIB+ap+B4cS2QUxUoylm7c=";
+    version = "1.15.0";
+    sha256 = "sha256-o5MfA0UG8vpnPCH1EYspzcN62yKZQcz5uVUY47hOL9w=";
   };
 in
 
